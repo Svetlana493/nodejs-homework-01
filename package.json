@@ -1,7 +1,7 @@
 {
   "name": "nodejs-homework-01",
   "version": "1.0.0",
-  "description": "Получаем весь список контактов - https://ibb.co/nb9tjn8\r Получаем контакт по id - https://ibb.co/6ym3P97\r Добавялем контакт - https://ibb.co/K0BP60w\r Удаляем контакт - https://ibb.co/nm3d913",
+  "description": "",
   "homepage": "https://github.com/Svetlana493/nodejs-homework-01#readme",
   "main": "index.js",
   "scripts": {
@@ -20,11 +20,10 @@
     "url": "https://github.com/Svetlana493/nodejs-homework-01/issues"
   },
   "devDependencies": {
-    "nodemon": "^2.0.14"
+    "nodemon": "^2.0.20"
   },
   "dependencies": {
     "commander": "^8.3.0",
-    "express": "^4.18.1",
     "nanoid": "^3.1.30"
   }
 }
